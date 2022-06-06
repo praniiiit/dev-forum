@@ -1,0 +1,36 @@
+{
+  "threads": [
+    {
+      "title": "thread1",
+      "author": "This User",
+      "timeStamp": " at 21:14:4 on 23/5/2022",
+      "comments": [
+        {
+          "content": "comment1",
+          "author": "This User",
+          "timeStamp": " at 21:14:15 on 2022/5/23",
+          "id": 1,
+          "fav": false
+        }
+      ],
+      "fav": false,
+      "id": 1
+    },
+    {
+      "title": "thread2",
+      "author": "This User",
+      "timeStamp": " at 21:14:7 on 23/5/2022",
+      "comments": [
+        {
+          "content": "comment2",
+          "author": "This User",
+          "timeStamp": " at 21:14:22 on 2022/5/23",
+          "id": 1,
+          "fav": false
+        }
+      ],
+      "fav": false,
+      "id": 2
+    }
+  ]
+}
